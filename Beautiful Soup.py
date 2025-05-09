@@ -104,3 +104,6 @@ df.to_csv(r"C:\Users\HP ELITE BOOK\Desktop\midj\companies.csv", index =False)
 
 
 
+
+
+
